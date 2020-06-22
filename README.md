@@ -23,4 +23,5 @@ Download all the files from this repo onto a local directory. Compile the progra
 
 ### Example Run
 
-Game when starting up.
+SlotMachine game when starting up.
+
