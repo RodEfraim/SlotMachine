@@ -29,11 +29,11 @@ SlotMachine game when starting up.
 
 The the image below is a winning result from the “Spin Middle Row” button, which only takes into account the middle horizontal row.
 
-<img src="DemoImages/SimulatorScreenShot-WinningSpinMiddleRow.png" width="300">
+<img src="DemoImages/SimulatorScreenShot-WinningSpinMiddleRow.png" width="250">
 
 The the image below is a winning result from the “Spin All” button, which takes into account all diagonal and horizontal rows.
 
-<img src="DemoImages/SimulatorScreenShot-WinningSpinAllHorizontal.png" width="300">
+<img src="DemoImages/SimulatorScreenShot-WinningSpinAllHorizontal.png" width="250">
 
 The the image below is another winning result from the “Spin All” button.
 
